@@ -12,5 +12,8 @@ public class Test {
         System.out.println("main commit 2");
         //main commit 3
         System.out.println("main commit 3");
+
+        //dev1
+        System.out.println("dev1 commit 4");
     }
 }
