@@ -8,5 +8,9 @@ public class Test {
         System.out.println("dev1 commit 2");
         //dev1
         System.out.println("dev1 commit 3");
+        //main commit 2
+        System.out.println("main commit 2");
+        //main commit 3
+        System.out.println("main commit 3");
     }
 }
